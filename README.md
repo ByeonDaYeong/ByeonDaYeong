@@ -1,3 +1,4 @@
+<!--
 <a href="https://www.instagram.com/thinking_yeong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a></br>
 
 **work** </br>
@@ -10,7 +11,7 @@
 <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat-square&logo=The Algorithms&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/JPA-004027?style=flat-square&logo=Jameson&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/>
-
+-->
 
 
 <!--
